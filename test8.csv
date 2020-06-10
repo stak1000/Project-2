@@ -1,0 +1,1429 @@
+state,year,levels
+Alabama,1990,110.01
+Alabama,1991,114.39
+Alabama,1992,121.04
+Alabama,1993,125.63
+Alabama,1994,123.56
+Alabama,1995,131.34
+Alabama,1996,137.34
+Alabama,1997,134.14
+Alabama,1998,133.41
+Alabama,1999,135.93
+Alabama,2000,142.05
+Alabama,2001,133.5
+Alabama,2002,138.43
+Alabama,2003,139.44
+Alabama,2004,141.59
+Alabama,2005,143.34
+Alabama,2006,145.72
+Alabama,2007,147.44
+Alabama,2008,139.67
+Alabama,2009,120.02
+Alabama,2010,132.72
+Alabama,2011,129.81
+Alabama,2012,123.04
+Alabama,2013,120.73
+Alabama,2014,123.08
+Alabama,2015,120.01
+Alabama,2016,114.87
+Alabama,2017,109.02
+Alaska,1990,34.54
+Alaska,1991,35.16
+Alaska,1992,36.58
+Alaska,1993,36.43
+Alaska,1994,36.26
+Alaska,1995,40.86
+Alaska,1996,41.78
+Alaska,1997,41.83
+Alaska,1998,42.91
+Alaska,1999,43.48
+Alaska,2000,44.13
+Alaska,2001,43.27
+Alaska,2002,43.4
+Alaska,2003,43.47
+Alaska,2004,46.53
+Alaska,2005,47.9
+Alaska,2006,45.66
+Alaska,2007,43.99
+Alaska,2008,39.44
+Alaska,2009,37.79
+Alaska,2010,38.73
+Alaska,2011,38.59
+Alaska,2012,38.04
+Alaska,2013,35.98
+Alaska,2014,35.17
+Alaska,2015,36.07
+Alaska,2016,34.74
+Alaska,2017,34.3
+Arizona,1990,62.88
+Arizona,1991,63.79
+Arizona,1992,66.61
+Arizona,1993,68.85
+Arizona,1994,71.56
+Arizona,1995,66.52
+Arizona,1996,68.29
+Arizona,1997,71.36
+Arizona,1998,76.29
+Arizona,1999,80.19
+Arizona,2000,85.88
+Arizona,2001,88.26
+Arizona,2002,87.61
+Arizona,2003,89.52
+Arizona,2004,96.42
+Arizona,2005,96.52
+Arizona,2006,99.73
+Arizona,2007,101.72
+Arizona,2008,102.13
+Arizona,2009,93.25
+Arizona,2010,95.2
+Arizona,2011,93.28
+Arizona,2012,91.26
+Arizona,2013,95.06
+Arizona,2014,93.12
+Arizona,2015,90.86
+Arizona,2016,86.97
+Arizona,2017,86.14
+Arkansas,1990,50.92
+Arkansas,1991,49.84
+Arkansas,1992,51.45
+Arkansas,1993,50.52
+Arkansas,1994,54.41
+Arkansas,1995,57.78
+Arkansas,1996,60.36
+Arkansas,1997,59.3
+Arkansas,1998,60.69
+Arkansas,1999,62.93
+Arkansas,2000,63.4
+Arkansas,2001,62.62
+Arkansas,2002,61.16
+Arkansas,2003,61.89
+Arkansas,2004,62.21
+Arkansas,2005,59.96
+Arkansas,2006,61.83
+Arkansas,2007,63.2
+Arkansas,2008,64.06
+Arkansas,2009,61.37
+Arkansas,2010,65.72
+Arkansas,2011,67.17
+Arkansas,2012,65.94
+Arkansas,2013,68.35
+Arkansas,2014,68.99
+Arkansas,2015,59.18
+Arkansas,2016,62.32
+Arkansas,2017,64.28
+California,1990,357.64
+California,1991,345.31
+California,1992,349.49
+California,1993,338.89
+California,1994,354.9
+California,1995,343.8
+California,1996,342.36
+California,1997,344.74
+California,1998,355.14
+California,1999,358.77
+California,2000,374.77
+California,2001,379.37
+California,2002,377.5
+California,2003,366.65
+California,2004,384.15
+California,2005,381.47
+California,2006,390.16
+California,2007,395.34
+California,2008,379.48
+California,2009,366.18
+California,2010,360.95
+California,2011,346.86
+California,2012,351.5
+California,2013,354.22
+California,2014,351.48
+California,2015,359.29
+California,2016,359.26
+California,2017,360.91
+Colorado,1990,66.02
+Colorado,1991,67.29
+Colorado,1992,68.27
+Colorado,1993,71.98
+Colorado,1994,72.39
+Colorado,1995,72.46
+Colorado,1996,75.32
+Colorado,1997,75.43
+Colorado,1998,77.71
+Colorado,1999,79.58
+Colorado,2000,84.61
+Colorado,2001,92.76
+Colorado,2002,90.91
+Colorado,2003,90.28
+Colorado,2004,93.07
+Colorado,2005,95.3
+Colorado,2006,96.33
+Colorado,2007,99.01
+Colorado,2008,97.06
+Colorado,2009,92.93
+Colorado,2010,95.4
+Colorado,2011,91.69
+Colorado,2012,90.61
+Colorado,2013,91.19
+Colorado,2014,91.83
+Colorado,2015,90.54
+Colorado,2016,87.18
+Colorado,2017,87.58
+Connecticut,1990,40.71
+Connecticut,1991,39.89
+Connecticut,1992,40.18
+Connecticut,1993,38.19
+Connecticut,1994,37.46
+Connecticut,1995,36.77
+Connecticut,1996,39.56
+Connecticut,1997,42.55
+Connecticut,1998,40.2
+Connecticut,1999,41.4
+Connecticut,2000,42.71
+Connecticut,2001,41.49
+Connecticut,2002,39.84
+Connecticut,2003,42.53
+Connecticut,2004,44.33
+Connecticut,2005,43.82
+Connecticut,2006,40.8
+Connecticut,2007,40.03
+Connecticut,2008,37.48
+Connecticut,2009,35.72
+Connecticut,2010,36.05
+Connecticut,2011,34.65
+Connecticut,2012,33.93
+Connecticut,2013,34.66
+Connecticut,2014,34.95
+Connecticut,2015,36.29
+Connecticut,2016,34.09
+Connecticut,2017,33.58
+Delaware,1990,16.67
+Delaware,1991,17.46
+Delaware,1992,16.29
+Delaware,1993,17.73
+Delaware,1994,17.05
+Delaware,1995,16.09
+Delaware,1996,16.7
+Delaware,1997,15.3
+Delaware,1998,14.88
+Delaware,1999,15.07
+Delaware,2000,15.9
+Delaware,2001,15.42
+Delaware,2002,15.18
+Delaware,2003,15.74
+Delaware,2004,15.94
+Delaware,2005,16.73
+Delaware,2006,15.68
+Delaware,2007,16.51
+Delaware,2008,15.59
+Delaware,2009,11.94
+Delaware,2010,11.23
+Delaware,2011,12.19
+Delaware,2012,13.32
+Delaware,2013,13.05
+Delaware,2014,12.69
+Delaware,2015,12.79
+Delaware,2016,13.24
+Delaware,2017,12.34
+District of Columbia,1990,4.45
+District of Columbia,1991,4.39
+District of Columbia,1992,4.36
+District of Columbia,1993,4.54
+District of Columbia,1994,4.51
+District of Columbia,1995,4.42
+District of Columbia,1996,4.38
+District of Columbia,1997,4.25
+District of Columbia,1998,4.07
+District of Columbia,1999,4.15
+District of Columbia,2000,4.29
+District of Columbia,2001,4.07
+District of Columbia,2002,4.17
+District of Columbia,2003,3.92
+District of Columbia,2004,4
+District of Columbia,2005,3.92
+District of Columbia,2006,3.18
+District of Columbia,2007,3.37
+District of Columbia,2008,3.08
+District of Columbia,2009,3.17
+District of Columbia,2010,3.21
+District of Columbia,2011,3.08
+District of Columbia,2012,2.65
+District of Columbia,2013,2.83
+District of Columbia,2014,3.02
+District of Columbia,2015,2.98
+District of Columbia,2016,2.77
+District of Columbia,2017,2.63
+Florida,1990,188.32
+Florida,1991,189.52
+Florida,1992,191.85
+Florida,1993,194.93
+Florida,1994,202.26
+Florida,1995,207.52
+Florida,1996,213.05
+Florida,1997,218.08
+Florida,1998,230.99
+Florida,1999,230.5
+Florida,2000,238.81
+Florida,2001,237.72
+Florida,2002,240.93
+Florida,2003,245.2
+Florida,2004,256.24
+Florida,2005,259.63
+Florida,2006,258.19
+Florida,2007,256.01
+Florida,2008,237.8
+Florida,2009,223.44
+Florida,2010,241.44
+Florida,2011,228.35
+Florida,2012,222.06
+Florida,2013,221.13
+Florida,2014,227.03
+Florida,2015,231.4
+Florida,2016,229.21
+Florida,2017,227.96
+Georgia,1990,139.2
+Georgia,1991,131.27
+Georgia,1992,130.67
+Georgia,1993,139.93
+Georgia,1994,142.78
+Georgia,1995,151.14
+Georgia,1996,155.32
+Georgia,1997,156.22
+Georgia,1998,157.31
+Georgia,1999,159.94
+Georgia,2000,168.18
+Georgia,2001,160.53
+Georgia,2002,165.33
+Georgia,2003,168.51
+Georgia,2004,173.58
+Georgia,2005,184.11
+Georgia,2006,181.56
+Georgia,2007,184.31
+Georgia,2008,171.75
+Georgia,2009,161.82
+Georgia,2010,171.35
+Georgia,2011,156.03
+Georgia,2012,135.84
+Georgia,2013,134.18
+Georgia,2014,139.35
+Georgia,2015,136.7
+Georgia,2016,135.87
+Georgia,2017,132.7
+Hawaii,1990,21.64
+Hawaii,1991,19.64
+Hawaii,1992,20.66
+Hawaii,1993,18.93
+Hawaii,1994,20.3
+Hawaii,1995,20.25
+Hawaii,1996,19.22
+Hawaii,1997,18.67
+Hawaii,1998,18.73
+Hawaii,1999,18.43
+Hawaii,2000,18.7
+Hawaii,2001,19.17
+Hawaii,2002,20.41
+Hawaii,2003,21.36
+Hawaii,2004,22.32
+Hawaii,2005,22.93
+Hawaii,2006,23.2
+Hawaii,2007,24.02
+Hawaii,2008,19.31
+Hawaii,2009,18.89
+Hawaii,2010,19.03
+Hawaii,2011,19.47
+Hawaii,2012,18.93
+Hawaii,2013,18.46
+Hawaii,2014,18.42
+Hawaii,2015,18.58
+Hawaii,2016,18.51
+Hawaii,2017,17.73
+Idaho,1990,11.31
+Idaho,1991,12.01
+Idaho,1992,11.29
+Idaho,1993,12.41
+Idaho,1994,12.55
+Idaho,1995,13.34
+Idaho,1996,13.95
+Idaho,1997,13.76
+Idaho,1998,14
+Idaho,1999,14.87
+Idaho,2000,15.58
+Idaho,2001,15.51
+Idaho,2002,14.93
+Idaho,2003,14.33
+Idaho,2004,15.53
+Idaho,2005,15.69
+Idaho,2006,15.74
+Idaho,2007,16.24
+Idaho,2008,15.47
+Idaho,2009,15.09
+Idaho,2010,15.89
+Idaho,2011,15.71
+Idaho,2012,15.58
+Idaho,2013,17.05
+Idaho,2014,16.59
+Idaho,2015,17.85
+Idaho,2016,18.27
+Idaho,2017,18.55
+Illinois,1990,191.38
+Illinois,1991,191.39
+Illinois,1992,186.93
+Illinois,1993,203.4
+Illinois,1994,203.53
+Illinois,1995,207.66
+Illinois,1996,221.35
+Illinois,1997,224.6
+Illinois,1998,214.74
+Illinois,1999,224.69
+Illinois,2000,231.83
+Illinois,2001,223.26
+Illinois,2002,225.67
+Illinois,2003,229.1
+Illinois,2004,236.04
+Illinois,2005,242.52
+Illinois,2006,234.56
+Illinois,2007,242.33
+Illinois,2008,240.79
+Illinois,2009,225.64
+Illinois,2010,230.78
+Illinois,2011,229.51
+Illinois,2012,216.84
+Illinois,2013,230.26
+Illinois,2014,233.3
+Illinois,2015,215.88
+Illinois,2016,204.06
+Illinois,2017,202.4
+Indiana,1990,204.68
+Indiana,1991,201.28
+Indiana,1992,197.68
+Indiana,1993,202.47
+Indiana,1994,201.98
+Indiana,1995,207.4
+Indiana,1996,211.8
+Indiana,1997,215.89
+Indiana,1998,216.63
+Indiana,1999,222.73
+Indiana,2000,236.4
+Indiana,2001,226.2
+Indiana,2002,229.38
+Indiana,2003,235.5
+Indiana,2004,234.69
+Indiana,2005,233.76
+Indiana,2006,231.53
+Indiana,2007,231.45
+Indiana,2008,227.09
+Indiana,2009,204.21
+Indiana,2010,216.65
+Indiana,2011,209.25
+Indiana,2012,194.57
+Indiana,2013,200.06
+Indiana,2014,205.6
+Indiana,2015,186.23
+Indiana,2016,182.1
+Indiana,2017,176.96
+Iowa,1990,62.93
+Iowa,1991,64.97
+Iowa,1992,63.52
+Iowa,1993,67.6
+Iowa,1994,68.66
+Iowa,1995,72.23
+Iowa,1996,74.15
+Iowa,1997,73.44
+Iowa,1998,77.27
+Iowa,1999,78.36
+Iowa,2000,79.4
+Iowa,2001,78.33
+Iowa,2002,79.02
+Iowa,2003,78.59
+Iowa,2004,80.57
+Iowa,2005,80.67
+Iowa,2006,82.03
+Iowa,2007,87.26
+Iowa,2008,91.03
+Iowa,2009,86.06
+Iowa,2010,90.55
+Iowa,2011,87.48
+Iowa,2012,81.52
+Iowa,2013,82.82
+Iowa,2014,83.85
+Iowa,2015,77.92
+Iowa,2016,74.54
+Iowa,2017,76.79
+Kansas,1990,69.19
+Kansas,1991,67.82
+Kansas,1992,65.48
+Kansas,1993,70.94
+Kansas,1994,71.28
+Kansas,1995,68.76
+Kansas,1996,74.27
+Kansas,1997,71.25
+Kansas,1998,70.29
+Kansas,1999,73.86
+Kansas,2000,75.62
+Kansas,2001,71.44
+Kansas,2002,76.34
+Kansas,2003,78.39
+Kansas,2004,75.53
+Kansas,2005,71.81
+Kansas,2006,71.9
+Kansas,2007,79.6
+Kansas,2008,74.32
+Kansas,2009,72.5
+Kansas,2010,72.28
+Kansas,2011,70.45
+Kansas,2012,65.68
+Kansas,2013,69.41
+Kansas,2014,69.68
+Kansas,2015,64.01
+Kansas,2016,61.89
+Kansas,2017,58.24
+Kentucky,1990,117.87
+Kentucky,1991,118.12
+Kentucky,1992,120.99
+Kentucky,1993,132.08
+Kentucky,1994,129.99
+Kentucky,1995,135.52
+Kentucky,1996,136.71
+Kentucky,1997,141.1
+Kentucky,1998,138.44
+Kentucky,1999,142.62
+Kentucky,2000,143.8
+Kentucky,2001,145.42
+Kentucky,2002,146.11
+Kentucky,2003,142.38
+Kentucky,2004,147.58
+Kentucky,2005,149.97
+Kentucky,2006,152.18
+Kentucky,2007,152.77
+Kentucky,2008,150.44
+Kentucky,2009,140.04
+Kentucky,2010,149.49
+Kentucky,2011,148.39
+Kentucky,2012,137.02
+Kentucky,2013,136.49
+Kentucky,2014,137.88
+Kentucky,2015,128.46
+Kentucky,2016,123.7
+Kentucky,2017,114.34
+Louisiana,1990,207.13
+Louisiana,1991,206.13
+Louisiana,1992,213.81
+Louisiana,1993,216.52
+Louisiana,1994,223.51
+Louisiana,1995,223.68
+Louisiana,1996,228.78
+Louisiana,1997,236.56
+Louisiana,1998,223.66
+Louisiana,1999,222.52
+Louisiana,2000,241.85
+Louisiana,2001,214.28
+Louisiana,2002,222.86
+Louisiana,2003,219.35
+Louisiana,2004,231.51
+Louisiana,2005,223.41
+Louisiana,2006,233.29
+Louisiana,2007,237.37
+Louisiana,2008,239.34
+Louisiana,2009,222.41
+Louisiana,2010,235.89
+Louisiana,2011,238.45
+Louisiana,2012,225.94
+Louisiana,2013,218.57
+Louisiana,2014,215.8
+Louisiana,2015,218.13
+Louisiana,2016,219.76
+Louisiana,2017,227.86
+Maine,1990,19.03
+Maine,1991,18.56
+Maine,1992,19.36
+Maine,1993,18.88
+Maine,1994,20.28
+Maine,1995,18.94
+Maine,1996,19.45
+Maine,1997,19.67
+Maine,1998,19.32
+Maine,1999,20.35
+Maine,2000,22.22
+Maine,2001,22.35
+Maine,2002,23.85
+Maine,2003,23.5
+Maine,2004,23.84
+Maine,2005,22.97
+Maine,2006,21.13
+Maine,2007,20.83
+Maine,2008,18.98
+Maine,2009,18.28
+Maine,2010,17.98
+Maine,2011,17.44
+Maine,2012,15.74
+Maine,2013,16.49
+Maine,2014,16.55
+Maine,2015,16.76
+Maine,2016,16.36
+Maine,2017,15.48
+Maryland,1990,70.23
+Maryland,1991,69.03
+Maryland,1992,66.81
+Maryland,1993,69.26
+Maryland,1994,70.3
+Maryland,1995,69.78
+Maryland,1996,71.91
+Maryland,1997,72.24
+Maryland,1998,74.89
+Maryland,1999,77.37
+Maryland,2000,77.33
+Maryland,2001,77.07
+Maryland,2002,77.08
+Maryland,2003,79.98
+Maryland,2004,80.62
+Maryland,2005,82.76
+Maryland,2006,77.8
+Maryland,2007,78.16
+Maryland,2008,74.35
+Maryland,2009,71.05
+Maryland,2010,69.7
+Maryland,2011,65.01
+Maryland,2012,60.4
+Maryland,2013,59.7
+Maryland,2014,61.63
+Maryland,2015,59.66
+Maryland,2016,57.72
+Maryland,2017,51.96
+Massachusetts,1990,83.48
+Massachusetts,1991,82.22
+Massachusetts,1992,84.09
+Massachusetts,1993,81.2
+Massachusetts,1994,81.33
+Massachusetts,1995,78.6
+Massachusetts,1996,79.28
+Massachusetts,1997,85.37
+Massachusetts,1998,83.38
+Massachusetts,1999,80.97
+Massachusetts,2000,82.05
+Massachusetts,2001,81.94
+Massachusetts,2002,82.78
+Massachusetts,2003,84.14
+Massachusetts,2004,82.41
+Massachusetts,2005,84.02
+Massachusetts,2006,76.15
+Massachusetts,2007,79.53
+Massachusetts,2008,76.36
+Massachusetts,2009,69.93
+Massachusetts,2010,71.43
+Massachusetts,2011,67.65
+Massachusetts,2012,61.38
+Massachusetts,2013,65.24
+Massachusetts,2014,63.45
+Massachusetts,2015,65.29
+Massachusetts,2016,63.72
+Massachusetts,2017,63.7
+Michigan,1990,180.48
+Michigan,1991,179.02
+Michigan,1992,177.78
+Michigan,1993,177.96
+Michigan,1994,185.67
+Michigan,1995,188.57
+Michigan,1996,193.91
+Michigan,1997,191.13
+Michigan,1998,190.23
+Michigan,1999,198.37
+Michigan,2000,193.39
+Michigan,2001,189.31
+Michigan,2002,188.6
+Michigan,2003,185.53
+Michigan,2004,187.72
+Michigan,2005,189.99
+Michigan,2006,178.85
+Michigan,2007,181.07
+Michigan,2008,174.78
+Michigan,2009,163.75
+Michigan,2010,164.51
+Michigan,2011,159.26
+Michigan,2012,152.49
+Michigan,2013,161.25
+Michigan,2014,161.23
+Michigan,2015,161.44
+Michigan,2016,151.38
+Michigan,2017,152.72
+Minnesota,1990,78.47
+Minnesota,1991,78.51
+Minnesota,1992,79.87
+Minnesota,1993,84.34
+Minnesota,1994,85.89
+Minnesota,1995,88.67
+Minnesota,1996,93.47
+Minnesota,1997,91.07
+Minnesota,1998,91.09
+Minnesota,1999,91.89
+Minnesota,2000,97.07
+Minnesota,2001,94.15
+Minnesota,2002,96.7
+Minnesota,2003,100.8
+Minnesota,2004,99.99
+Minnesota,2005,101.08
+Minnesota,2006,98.44
+Minnesota,2007,100.08
+Minnesota,2008,99.6
+Minnesota,2009,91.82
+Minnesota,2010,91.64
+Minnesota,2011,91.34
+Minnesota,2012,86.37
+Minnesota,2013,89.27
+Minnesota,2014,94.57
+Minnesota,2015,87.55
+Minnesota,2016,88.99
+Minnesota,2017,88.45
+Mississippi,1990,48.53
+Mississippi,1991,48.32
+Mississippi,1992,48.3
+Mississippi,1993,50.51
+Mississippi,1994,50.3
+Mississippi,1995,51.71
+Mississippi,1996,54.58
+Mississippi,1997,55.41
+Mississippi,1998,56.35
+Mississippi,1999,61.35
+Mississippi,2000,60.95
+Mississippi,2001,69.68
+Mississippi,2002,62.27
+Mississippi,2003,63.88
+Mississippi,2004,65.33
+Mississippi,2005,63.65
+Mississippi,2006,65.68
+Mississippi,2007,67.8
+Mississippi,2008,64.36
+Mississippi,2009,60.26
+Mississippi,2010,65.08
+Mississippi,2011,60.23
+Mississippi,2012,62.05
+Mississippi,2013,60.33
+Mississippi,2014,63.66
+Mississippi,2015,64.9
+Mississippi,2016,68.48
+Mississippi,2017,67.8
+Missouri,1990,102.26
+Missouri,1991,102.51
+Missouri,1992,101.79
+Missouri,1993,100.31
+Missouri,1994,107.74
+Missouri,1995,115.04
+Missouri,1996,121.23
+Missouri,1997,124.89
+Missouri,1998,129.05
+Missouri,1999,129.55
+Missouri,2000,124.85
+Missouri,2001,129.59
+Missouri,2002,130.69
+Missouri,2003,137.65
+Missouri,2004,138.08
+Missouri,2005,141.15
+Missouri,2006,139.32
+Missouri,2007,138.48
+Missouri,2008,135.21
+Missouri,2009,129.54
+Missouri,2010,133.6
+Missouri,2011,134.24
+Missouri,2012,126.49
+Missouri,2013,132.04
+Missouri,2014,131.73
+Missouri,2015,122.43
+Missouri,2016,117.68
+Missouri,2017,123.2
+Montana,1990,26.96
+Montana,1991,28.18
+Montana,1992,29.29
+Montana,1993,27.31
+Montana,1994,29.98
+Montana,1995,29.64
+Montana,1996,26.78
+Montana,1997,28.87
+Montana,1998,30.46
+Montana,1999,30.94
+Montana,2000,30.41
+Montana,2001,31.59
+Montana,2002,29.95
+Montana,2003,32.22
+Montana,2004,33.8
+Montana,2005,34.9
+Montana,2006,35.04
+Montana,2007,36.53
+Montana,2008,35.81
+Montana,2009,32.34
+Montana,2010,34.29
+Montana,2011,31.39
+Montana,2012,30.13
+Montana,2013,31.5
+Montana,2014,31.98
+Montana,2015,31.94
+Montana,2016,30.46
+Montana,2017,30.47
+Nebraska,1990,32.91
+Nebraska,1991,33.77
+Nebraska,1992,32.64
+Nebraska,1993,35.93
+Nebraska,1994,35.87
+Nebraska,1995,38.43
+Nebraska,1996,39.57
+Nebraska,1997,40.87
+Nebraska,1998,42.87
+Nebraska,1999,41.71
+Nebraska,2000,41.51
+Nebraska,2001,42.82
+Nebraska,2002,42.33
+Nebraska,2003,43.44
+Nebraska,2004,43.23
+Nebraska,2005,43.64
+Nebraska,2006,44.22
+Nebraska,2007,44.57
+Nebraska,2008,46.61
+Nebraska,2009,47.27
+Nebraska,2010,49.79
+Nebraska,2011,52.23
+Nebraska,2012,50.5
+Nebraska,2013,53.45
+Nebraska,2014,52.19
+Nebraska,2015,50.69
+Nebraska,2016,48.53
+Nebraska,2017,48.01
+Nevada,1990,30.65
+Nevada,1991,32.56
+Nevada,1992,33.56
+Nevada,1993,33.93
+Nevada,1994,36.19
+Nevada,1995,35.35
+Nevada,1996,37.98
+Nevada,1997,37.9
+Nevada,1998,40.56
+Nevada,1999,41.18
+Nevada,2000,45.25
+Nevada,2001,44.57
+Nevada,2002,41.36
+Nevada,2003,43.52
+Nevada,2004,47.63
+Nevada,2005,49.76
+Nevada,2006,41.31
+Nevada,2007,41.51
+Nevada,2008,40.73
+Nevada,2009,39.23
+Nevada,2010,37.41
+Nevada,2011,33.7
+Nevada,2012,34.36
+Nevada,2013,36.23
+Nevada,2014,37.08
+Nevada,2015,35.1
+Nevada,2016,36.5
+Nevada,2017,36.4
+New Hampshire,1990,14.71
+New Hampshire,1991,14.32
+New Hampshire,1992,14.43
+New Hampshire,1993,14.92
+New Hampshire,1994,14.98
+New Hampshire,1995,15.07
+New Hampshire,1996,15.29
+New Hampshire,1997,16.55
+New Hampshire,1998,16.58
+New Hampshire,1999,16.73
+New Hampshire,2000,17.41
+New Hampshire,2001,16.87
+New Hampshire,2002,17.56
+New Hampshire,2003,20.86
+New Hampshire,2004,21.83
+New Hampshire,2005,21.17
+New Hampshire,2006,19.31
+New Hampshire,2007,19.1
+New Hampshire,2008,18.67
+New Hampshire,2009,16.98
+New Hampshire,2010,16.52
+New Hampshire,2011,16.15
+New Hampshire,2012,14.48
+New Hampshire,2013,14.23
+New Hampshire,2014,14.94
+New Hampshire,2015,15.12
+New Hampshire,2016,13.68
+New Hampshire,2017,13.47
+New Jersey,1990,108.44
+New Jersey,1991,109.52
+New Jersey,1992,115.94
+New Jersey,1993,112.37
+New Jersey,1994,122.18
+New Jersey,1995,121.61
+New Jersey,1996,120.78
+New Jersey,1997,122.3
+New Jersey,1998,118.08
+New Jersey,1999,121.97
+New Jersey,2000,121.72
+New Jersey,2001,119.16
+New Jersey,2002,119.12
+New Jersey,2003,120.44
+New Jersey,2004,122.86
+New Jersey,2005,127.67
+New Jersey,2006,120.64
+New Jersey,2007,128.24
+New Jersey,2008,126.01
+New Jersey,2009,108.98
+New Jersey,2010,113.25
+New Jersey,2011,113.52
+New Jersey,2012,103
+New Jersey,2013,106.69
+New Jersey,2014,112.69
+New Jersey,2015,111.02
+New Jersey,2016,110.17
+New Jersey,2017,101.65
+New Mexico,1990,53.14
+New Mexico,1991,48.98
+New Mexico,1992,51.5
+New Mexico,1993,52.22
+New Mexico,1994,52.17
+New Mexico,1995,50.75
+New Mexico,1996,52.3
+New Mexico,1997,55.62
+New Mexico,1998,55.13
+New Mexico,1999,56.12
+New Mexico,2000,57.86
+New Mexico,2001,58.06
+New Mexico,2002,55.11
+New Mexico,2003,57.35
+New Mexico,2004,58.39
+New Mexico,2005,59.01
+New Mexico,2006,59.65
+New Mexico,2007,58.83
+New Mexico,2008,56.29
+New Mexico,2009,57.16
+New Mexico,2010,53.14
+New Mexico,2011,55.55
+New Mexico,2012,53.53
+New Mexico,2013,53.11
+New Mexico,2014,50.07
+New Mexico,2015,50.21
+New Mexico,2016,48.32
+New Mexico,2017,49.01
+New York,1990,207.26
+New York,1991,199.58
+New York,1992,198.02
+New York,1993,193.31
+New York,1994,191.25
+New York,1995,196.81
+New York,1996,199.39
+New York,1997,203.8
+New York,1998,202.12
+New York,1999,204.08
+New York,2000,210.48
+New York,2001,204.82
+New York,2002,199.12
+New York,2003,209.77
+New York,2004,211.84
+New York,2005,208.2
+New York,2006,189.93
+New York,2007,196.65
+New York,2008,186.85
+New York,2009,171.1
+New York,2010,172.9
+New York,2011,163.12
+New York,2012,159.46
+New York,2013,161.1
+New York,2014,168.87
+New York,2015,166.81
+New York,2016,162.79
+New York,2017,157.73
+North Carolina,1990,111.07
+North Carolina,1991,110.9
+North Carolina,1992,121.15
+North Carolina,1993,126.77
+North Carolina,1994,122
+North Carolina,1995,128.37
+North Carolina,1996,140.29
+North Carolina,1997,142.66
+North Carolina,1998,141.98
+North Carolina,1999,140.46
+North Carolina,2000,148.49
+North Carolina,2001,143.53
+North Carolina,2002,145.14
+North Carolina,2003,146.44
+North Carolina,2004,149.53
+North Carolina,2005,153.88
+North Carolina,2006,148.43
+North Carolina,2007,154.36
+North Carolina,2008,149.09
+North Carolina,2009,132.84
+North Carolina,2010,142.88
+North Carolina,2011,128.45
+North Carolina,2012,121.12
+North Carolina,2013,124.75
+North Carolina,2014,127.17
+North Carolina,2015,120.78
+North Carolina,2016,120.22
+North Carolina,2017,115.77
+North Dakota,1990,44.61
+North Dakota,1991,45.59
+North Dakota,1992,47.3
+North Dakota,1993,47.56
+North Dakota,1994,47.88
+North Dakota,1995,47.81
+North Dakota,1996,48.67
+North Dakota,1997,47.29
+North Dakota,1998,48.48
+North Dakota,1999,49.55
+North Dakota,2000,50.92
+North Dakota,2001,51.82
+North Dakota,2002,51.52
+North Dakota,2003,51.18
+North Dakota,2004,49.64
+North Dakota,2005,52.59
+North Dakota,2006,50.89
+North Dakota,2007,52.7
+North Dakota,2008,53.09
+North Dakota,2009,51.63
+North Dakota,2010,52.46
+North Dakota,2011,53.92
+North Dakota,2012,56.31
+North Dakota,2013,56.94
+North Dakota,2014,58.96
+North Dakota,2015,57.61
+North Dakota,2016,54.63
+North Dakota,2017,56.53
+Ohio,1990,245.01
+Ohio,1991,243.49
+Ohio,1992,247.67
+Ohio,1993,252.37
+Ohio,1994,248.66
+Ohio,1995,251.01
+Ohio,1996,263.43
+Ohio,1997,258.87
+Ohio,1998,257.2
+Ohio,1999,256.34
+Ohio,2000,263.81
+Ohio,2001,253.17
+Ohio,2002,259.46
+Ohio,2003,267.49
+Ohio,2004,262.4
+Ohio,2005,270.57
+Ohio,2006,263.3
+Ohio,2007,267.27
+Ohio,2008,259.92
+Ohio,2009,234.98
+Ohio,2010,247.14
+Ohio,2011,235.37
+Ohio,2012,215.38
+Ohio,2013,229.6
+Ohio,2014,231.67
+Ohio,2015,212.89
+Ohio,2016,206.41
+Ohio,2017,205.62
+Oklahoma,1990,87.46
+Oklahoma,1991,88.88
+Oklahoma,1992,91.8
+Oklahoma,1993,94.82
+Oklahoma,1994,93.4
+Oklahoma,1995,94.34
+Oklahoma,1996,96.86
+Oklahoma,1997,98.22
+Oklahoma,1998,96.61
+Oklahoma,1999,96.06
+Oklahoma,2000,99.22
+Oklahoma,2001,100.63
+Oklahoma,2002,100.88
+Oklahoma,2003,103.12
+Oklahoma,2004,98.99
+Oklahoma,2005,106.01
+Oklahoma,2006,109.25
+Oklahoma,2007,108.62
+Oklahoma,2008,111.34
+Oklahoma,2009,105.59
+Oklahoma,2010,105.3
+Oklahoma,2011,107.02
+Oklahoma,2012,104.19
+Oklahoma,2013,103
+Oklahoma,2014,104.34
+Oklahoma,2015,100.48
+Oklahoma,2016,96.54
+Oklahoma,2017,93.31
+Oregon,1990,30.05
+Oregon,1991,33.86
+Oregon,1992,34.65
+Oregon,1993,34.96
+Oregon,1994,36.54
+Oregon,1995,33.91
+Oregon,1996,35.97
+Oregon,1997,35.66
+Oregon,1998,40.86
+Oregon,1999,41.88
+Oregon,2000,40.71
+Oregon,2001,40.5
+Oregon,2002,38.96
+Oregon,2003,39.44
+Oregon,2004,40.46
+Oregon,2005,40.87
+Oregon,2006,40.08
+Oregon,2007,43.53
+Oregon,2008,42.54
+Oregon,2009,40.62
+Oregon,2010,40.45
+Oregon,2011,36.99
+Oregon,2012,36.69
+Oregon,2013,38.91
+Oregon,2014,37.83
+Oregon,2015,37.91
+Oregon,2016,37.74
+Oregon,2017,38.57
+Pennsylvania,1990,262.75
+Pennsylvania,1991,255.25
+Pennsylvania,1992,263.55
+Pennsylvania,1993,267.55
+Pennsylvania,1994,264.86
+Pennsylvania,1995,267.33
+Pennsylvania,1996,273.21
+Pennsylvania,1997,274.39
+Pennsylvania,1998,263.23
+Pennsylvania,1999,261.78
+Pennsylvania,2000,274.72
+Pennsylvania,2001,261.82
+Pennsylvania,2002,268.67
+Pennsylvania,2003,272.53
+Pennsylvania,2004,275.08
+Pennsylvania,2005,278.38
+Pennsylvania,2006,272.69
+Pennsylvania,2007,275.63
+Pennsylvania,2008,267.46
+Pennsylvania,2009,242.41
+Pennsylvania,2010,254.42
+Pennsylvania,2011,247.13
+Pennsylvania,2012,236.35
+Pennsylvania,2013,246.09
+Pennsylvania,2014,245.89
+Pennsylvania,2015,229.69
+Pennsylvania,2016,216.64
+Pennsylvania,2017,216.65
+Rhode Island,1990,8.87
+Rhode Island,1991,10.78
+Rhode Island,1992,13.03
+Rhode Island,1993,10.81
+Rhode Island,1994,12.8
+Rhode Island,1995,12.06
+Rhode Island,1996,13.47
+Rhode Island,1997,13.54
+Rhode Island,1998,13.8
+Rhode Island,1999,13.16
+Rhode Island,2000,11.66
+Rhode Island,2001,12.22
+Rhode Island,2002,11.64
+Rhode Island,2003,11.44
+Rhode Island,2004,10.86
+Rhode Island,2005,11.13
+Rhode Island,2006,10.46
+Rhode Island,2007,11
+Rhode Island,2008,10.6
+Rhode Island,2009,11.17
+Rhode Island,2010,10.94
+Rhode Island,2011,10.97
+Rhode Island,2012,10.48
+Rhode Island,2013,10.08
+Rhode Island,2014,10.58
+Rhode Island,2015,10.84
+Rhode Island,2016,9.67
+Rhode Island,2017,10.05
+South Carolina,1990,60.43
+South Carolina,1991,61.79
+South Carolina,1992,60.67
+South Carolina,1993,65.46
+South Carolina,1994,65.57
+South Carolina,1995,64.6
+South Carolina,1996,68.61
+South Carolina,1997,71.03
+South Carolina,1998,73.73
+South Carolina,1999,76.84
+South Carolina,2000,80.53
+South Carolina,2001,78.2
+South Carolina,2002,79.79
+South Carolina,2003,80.42
+South Carolina,2004,87.23
+South Carolina,2005,85.9
+South Carolina,2006,86.21
+South Carolina,2007,86.75
+South Carolina,2008,84.51
+South Carolina,2009,79
+South Carolina,2010,83.27
+South Carolina,2011,79.38
+South Carolina,2012,72.84
+South Carolina,2013,69.81
+South Carolina,2014,74.13
+South Carolina,2015,72.47
+South Carolina,2016,71.52
+South Carolina,2017,69.27
+South Dakota,1990,11.84
+South Dakota,1991,11.52
+South Dakota,1992,11.63
+South Dakota,1993,12.3
+South Dakota,1994,12.94
+South Dakota,1995,12.74
+South Dakota,1996,12.71
+South Dakota,1997,13.21
+South Dakota,1998,12.78
+South Dakota,1999,13.4
+South Dakota,2000,14.12
+South Dakota,2001,13.43
+South Dakota,2002,13.76
+South Dakota,2003,13.67
+South Dakota,2004,13.74
+South Dakota,2005,13.24
+South Dakota,2006,13.34
+South Dakota,2007,13.85
+South Dakota,2008,14.95
+South Dakota,2009,14.7
+South Dakota,2010,15.05
+South Dakota,2011,14.58
+South Dakota,2012,14.95
+South Dakota,2013,15.39
+South Dakota,2014,15.44
+South Dakota,2015,14.19
+South Dakota,2016,14.9
+South Dakota,2017,14.57
+Tennessee,1990,104.43
+Tennessee,1991,99.9
+Tennessee,1992,105.27
+Tennessee,1993,116.1
+Tennessee,1994,110.68
+Tennessee,1995,117.55
+Tennessee,1996,118.29
+Tennessee,1997,121.67
+Tennessee,1998,120.17
+Tennessee,1999,120.78
+Tennessee,2000,126.66
+Tennessee,2001,124.5
+Tennessee,2002,123.86
+Tennessee,2003,122.2
+Tennessee,2004,123.52
+Tennessee,2005,124.98
+Tennessee,2006,127
+Tennessee,2007,126.79
+Tennessee,2008,120.32
+Tennessee,2009,101.81
+Tennessee,2010,109.4
+Tennessee,2011,105.88
+Tennessee,2012,99.47
+Tennessee,2013,98.04
+Tennessee,2014,103.49
+Tennessee,2015,99.76
+Tennessee,2016,102.7
+Tennessee,2017,98.26
+Texas,1990,606.62
+Texas,1991,603.08
+Texas,1992,608.7
+Texas,1993,624.25
+Texas,1994,628.86
+Texas,1995,633.23
+Texas,1996,679.4
+Texas,1997,704.01
+Texas,1998,716.99
+Texas,1999,693.96
+Texas,2000,714.33
+Texas,2001,705.04
+Texas,2002,717.96
+Texas,2003,712.03
+Texas,2004,715.41
+Texas,2005,686.03
+Texas,2006,686.19
+Texas,2007,680.29
+Texas,2008,643.7
+Texas,2009,611.11
+Texas,2010,648.82
+Texas,2011,666.71
+Texas,2012,662
+Texas,2013,696.85
+Texas,2014,693.49
+Texas,2015,693.1
+Texas,2016,695.36
+Texas,2017,710.99
+Utah,1990,54.19
+Utah,1991,53.07
+Utah,1992,54.64
+Utah,1993,56.41
+Utah,1994,57.45
+Utah,1995,57.8
+Utah,1996,58.58
+Utah,1997,60.67
+Utah,1998,63.06
+Utah,1999,61.95
+Utah,2000,64.78
+Utah,2001,62.66
+Utah,2002,61.95
+Utah,2003,62.77
+Utah,2004,65.13
+Utah,2005,66.76
+Utah,2006,68.01
+Utah,2007,70
+Utah,2008,69.18
+Utah,2009,64.38
+Utah,2010,63.64
+Utah,2011,64.09
+Utah,2012,61.39
+Utah,2013,66.74
+Utah,2014,65.11
+Utah,2015,63.48
+Utah,2016,58.68
+Utah,2017,58.52
+Vermont,1990,5.47
+Vermont,1991,5.65
+Vermont,1992,6.11
+Vermont,1993,6.17
+Vermont,1994,5.99
+Vermont,1995,5.96
+Vermont,1996,6.25
+Vermont,1997,6.45
+Vermont,1998,6.21
+Vermont,1999,6.46
+Vermont,2000,6.7
+Vermont,2001,6.57
+Vermont,2002,6.31
+Vermont,2003,6.56
+Vermont,2004,6.98
+Vermont,2005,6.76
+Vermont,2006,6.64
+Vermont,2007,6.47
+Vermont,2008,5.9
+Vermont,2009,6.13
+Vermont,2010,5.85
+Vermont,2011,5.78
+Vermont,2012,5.43
+Vermont,2013,5.72
+Vermont,2014,5.87
+Vermont,2015,6.13
+Vermont,2016,5.92
+Vermont,2017,5.83
+Virginia,1990,94.92
+Virginia,1991,96.2
+Virginia,1992,97.33
+Virginia,1993,101.62
+Virginia,1994,100.47
+Virginia,1995,102.77
+Virginia,1996,107.36
+Virginia,1997,109.5
+Virginia,1998,111.44
+Virginia,1999,113.56
+Virginia,2000,122.47
+Virginia,2001,120.21
+Virginia,2002,118.76
+Virginia,2003,122.95
+Virginia,2004,126.63
+Virginia,2005,128.51
+Virginia,2006,122.05
+Virginia,2007,127.35
+Virginia,2008,116.18
+Virginia,2009,105.13
+Virginia,2010,108.3
+Virginia,2011,99.46
+Virginia,2012,97.42
+Virginia,2013,104.65
+Virginia,2014,103.78
+Virginia,2015,102.86
+Virginia,2016,103.88
+Virginia,2017,98.48
+Washington,1990,66.06
+Washington,1991,67.02
+Washington,1992,73.43
+Washington,1993,70.5
+Washington,1994,74.72
+Washington,1995,72.91
+Washington,1996,75.77
+Washington,1997,75.09
+Washington,1998,75.61
+Washington,1999,75.77
+Washington,2000,77.64
+Washington,2001,77.51
+Washington,2002,71.14
+Washington,2003,73.19
+Washington,2004,74.36
+Washington,2005,75.36
+Washington,2006,72.98
+Washington,2007,78.48
+Washington,2008,75.16
+Washington,2009,72.98
+Washington,2010,73.04
+Washington,2011,68.15
+Washington,2012,67.91
+Washington,2013,72.68
+Washington,2014,71.2
+Washington,2015,73.06
+Washington,2016,78.44
+Washington,2017,78.73
+West Virginia,1990,103.35
+West Virginia,1991,95.69
+West Virginia,1992,97.28
+West Virginia,1993,98.37
+West Virginia,1994,105.88
+West Virginia,1995,104.35
+West Virginia,1996,106.98
+West Virginia,1997,110.55
+West Virginia,1998,113.96
+West Virginia,1999,114.79
+West Virginia,2000,114.29
+West Virginia,2001,103.66
+West Virginia,2002,116.77
+West Virginia,2003,113.48
+West Virginia,2004,110.11
+West Virginia,2005,112.34
+West Virginia,2006,112.41
+West Virginia,2007,114.73
+West Virginia,2008,110.59
+West Virginia,2009,89.63
+West Virginia,2010,100.7
+West Virginia,2011,98.01
+West Virginia,2012,92.32
+West Virginia,2013,94.56
+West Virginia,2014,100.29
+West Virginia,2015,92.38
+West Virginia,2016,94.92
+West Virginia,2017,91.33
+Wisconsin,1990,85.67
+Wisconsin,1991,87.99
+Wisconsin,1992,87.08
+Wisconsin,1993,90.23
+Wisconsin,1994,93.37
+Wisconsin,1995,96.3
+Wisconsin,1996,100.45
+Wisconsin,1997,102.99
+Wisconsin,1998,100.93
+Wisconsin,1999,105.29
+Wisconsin,2000,107.44
+Wisconsin,2001,105.33
+Wisconsin,2002,106.51
+Wisconsin,2003,104.62
+Wisconsin,2004,106.98
+Wisconsin,2005,110.29
+Wisconsin,2006,102.43
+Wisconsin,2007,104.2
+Wisconsin,2008,104.64
+Wisconsin,2009,95.68
+Wisconsin,2010,98.09
+Wisconsin,2011,97.22
+Wisconsin,2012,90.02
+Wisconsin,2013,100.63
+Wisconsin,2014,100.92
+Wisconsin,2015,99.71
+Wisconsin,2016,95.5
+Wisconsin,2017,98.22
+Wyoming,1990,56.87
+Wyoming,1991,55.19
+Wyoming,1992,60.89
+Wyoming,1993,57.92
+Wyoming,1994,60.11
+Wyoming,1995,57.91
+Wyoming,1996,59.26
+Wyoming,1997,58.59
+Wyoming,1998,63.44
+Wyoming,1999,62.02
+Wyoming,2000,62.92
+Wyoming,2001,63.23
+Wyoming,2002,62
+Wyoming,2003,63.95
+Wyoming,2004,63.77
+Wyoming,2005,63.12
+Wyoming,2006,63.94
+Wyoming,2007,66.35
+Wyoming,2008,66.81
+Wyoming,2009,63.58
+Wyoming,2010,65.15
+Wyoming,2011,63.95
+Wyoming,2012,66.24
+Wyoming,2013,68.36
+Wyoming,2014,65.48
+Wyoming,2015,63.56
+Wyoming,2016,60.8
+Wyoming,2017,61.02
